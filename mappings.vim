@@ -20,10 +20,6 @@ nnoremap <leader>sc <nop>
 " Regular Mappings
 " ---------------
 
-" Use ; for : in normal and visual mode, less keystrokes
-nnoremap ; :
-vnoremap ; :
-
 " Quit with one key
 nnoremap <M-x> :qa<cr>
 
